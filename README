@@ -1,0 +1,2 @@
+ResidenceSigns 2.0 Takes all the features from residencesigns made by KarnEdge. This project is coded from the scratch and not forked since KarnEdge didn't release the source back then.
+Installing it is simple get the ResidenceSigns2.jar and put it in your plugins folder of bukkit it will then automatically create a config file and download the libraries it uses. It will require a server restart after starting it for the first time.
