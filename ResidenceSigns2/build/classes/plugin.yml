@@ -1,0 +1,14 @@
+## YAML Template.
+---
+
+name: ResidenceSigns2
+main: Flex.ResidenceSigns2.ResidenceSigns2
+version: 1.01
+
+commands:
+    pos:
+        description: blah
+        usage: /pos
+    debug:
+        description: blah blah
+        usage: /debug
